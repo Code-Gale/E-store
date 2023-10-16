@@ -1,3 +1,3 @@
 
 E-commerce website
-This is an online gadget shop built with HTML, CSS and Vanilla JS. It is fully responsive and stripe integrated. 
+This is an online gadget shop built with HTML, CSS and Vanilla JS.
